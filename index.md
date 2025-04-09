@@ -9,9 +9,8 @@ I am a senior Physics major at Pepperdine University, with research interests in
 > When something is important enough, you do it even if the odds are not in your favor.
 
 
-### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![lake footer](/assets/img/footer.png)
 
 ### Large image
 
