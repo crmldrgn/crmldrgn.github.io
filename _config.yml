@@ -4,3 +4,11 @@ description:
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+
+# Add this to override the theme's default stylesheet
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      css: "/assets/css/style.scss"
