@@ -2,13 +2,14 @@
 ---
 
 @import "jekyll-theme-minimal";
-@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet');
-@import url('https://fonts.googleapis.com/css2?family=Newsreader&display=swap');
 
-h1 {
-  font-family: 'Newsreader', serif;
-}
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&display=swap" rel="stylesheet"');
 
 body {
   font-family: 'Newsreader', serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Newsreader', serif;
+  color: #33CFFF; /* A different color for headers */
 }
