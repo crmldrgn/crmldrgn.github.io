@@ -11,7 +11,7 @@ I am a senior Physics major at Pepperdine University, with research interests in
 #
 
 
-My CV can be found [here](CV.md).
+My CV can be found [here](CV.pdf).
 
 
 
