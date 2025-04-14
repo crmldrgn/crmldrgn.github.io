@@ -11,7 +11,9 @@ I am a senior Physics major at Pepperdine University, with research interests in
 #
 
 
-My CV can be found [here](CV.pdf).
+My email address is carmel.drogin at pepperdine dot edu.   
+
+<!-- CV can be found [here](CV.pdf). -->
 
 
 
